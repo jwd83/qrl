@@ -45,5 +45,5 @@ Since this extension is not published on the Chrome Web Store, you'll need to in
 
 This extension uses:
 - Manifest V3 (latest Chrome extension format)
-- [QRCode.js](https://github.com/davidshimjs/qrcodejs) for QR generation
+- [QRCode.js](https://davidshimjs.github.io/qrcodejs/) for QR generation
 - Vanilla JavaScript (no frameworks)
